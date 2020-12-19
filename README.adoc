@@ -1,2 +1,4 @@
 = Functions for Jakarta EE
 
+Don't exactly know where I am going with this yet,
+but let's see if it can bring anything to the table...
